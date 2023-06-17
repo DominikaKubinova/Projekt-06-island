@@ -485,6 +485,14 @@ img {
             left: 24%;
         }
 
+        .popisek {
+            width: 100%;
+        }
+
+        .procjetnaisland .popisek {
+            padding-right: 15px;
+        }
+
         /*.popisek {
             position: absolute;
             right: 0;
